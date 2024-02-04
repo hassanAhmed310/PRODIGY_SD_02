@@ -1,0 +1,1 @@
+## a simple program that prompts the user to guess a randomly generated number and gives him the result of his guess (exact, too low, too high, low, high), as well as the number of trials and best score between all rounds. The user can start a new game and give up to get the actual random number.

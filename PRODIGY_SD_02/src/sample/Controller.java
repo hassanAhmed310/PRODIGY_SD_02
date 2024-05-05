@@ -11,7 +11,7 @@ import javafx.scene.text.Text;
 import java.net.URL;
 import java.util.Optional;
 import java.util.ResourceBundle;
-
+//sQVEEEEEEEEEEEEEEEEEEEEE
 public class Controller implements Initializable {
     @FXML
     private Text bestScore;
